@@ -16,7 +16,7 @@ MoneyWiz is a comprehensive finance management app for macOS designed to help in
 ## 📸 Overview  
 A quick look at key parts in action:  
 - ![](https://images.ctfassets.net/13g5no3omm60/7xU0rfAaZenLGWKVs5bzYi/544177599759b0fabde533e2ecedd201/money-wiz.jpg)  
-- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR94MtTsiHVPJ84Y-1Y-BUbBHsM-eeuRFbIXA&s)  
+- ![](https://cdn.macstories.net/002/29845_MoneyWiz_Mac_scr1.png)  
 
 ## 🎯 Key Features  
 ⚡️ Syncs transactions and budgets across all devices in real time.  
